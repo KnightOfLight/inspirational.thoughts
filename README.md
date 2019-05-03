@@ -11,9 +11,9 @@ Inspirational Thoughts it's a beautiful app for those people who want to get ins
 
 ### Screenshots
 
-![](3.jpg)
-![](4.jpg)
-![](5.jpg)
+![](3.png)
+![](4.png)
+![](5.png)
 
 ### Support or Contact
 
