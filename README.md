@@ -1,6 +1,6 @@
-# Welcome to Great Sayings
+# Welcome to Inspirational Thoughts
 
-Great sayings it's a beautiful app for those people who want to get inspiration to make their life better. Great sayings help us be productive during the day. Enjoy reading amazing quotes from famous wise people.
+Inspirational Thoughts it's a beautiful app for those people who want to get inspiration to make their life better. Inspirational Thoughts help us be productive during the day. Enjoy reading amazing quotes from famous wise people.
 
 ### Features
 
@@ -8,6 +8,7 @@ Great sayings it's a beautiful app for those people who want to get inspiration 
 - chose quote from over 200 quotes
 - read random quote
 - add quotes to favorites
+
 ### Screenshots
 
 ![](3.jpg)
