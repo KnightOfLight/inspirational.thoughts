@@ -1,13 +1,11 @@
-# Welcome to Inspirational Thoughts
+# Think to win
 
-Inspirational Thoughts it's a beautiful app for those people who want to get inspiration to make their life better. Inspirational Thoughts help us be productive during the day. Enjoy reading amazing quotes from famous wise people.
+Think to win app for people who like to think. There are many wise people with good quotes.
 
 ### Features
 
-- select your lovely category
-- chose quote from over 200 quotes
-- read random quote
-- add quotes to favorites
+- 30 authors
+- 150 quotes
 
 ### Screenshots
 
