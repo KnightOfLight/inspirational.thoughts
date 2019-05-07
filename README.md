@@ -8,9 +8,8 @@ With weather and weather you can see weather in any location.
 
 ### Screenshots
 
-![](3.png)
-![](4.png)
-![](5.png)
+![](1.png)
+![](2.png)
 
 ### Support or Contact
 
