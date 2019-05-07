@@ -1,11 +1,10 @@
-# Think to win
+# Hello to Weather and Weather
 
-Think to win app for people who like to think. There are many wise people with good quotes.
-
+With weather and weather you can see weather in any location.
 ### Features
 
-- 30 authors
-- 150 quotes
+- Any town
+- It supports celsius and fahrenheit.
 
 ### Screenshots
 
@@ -15,4 +14,4 @@ Think to win app for people who like to think. There are many wise people with g
 
 ### Support or Contact
 
-Having trouble with Great Saying? Fell free to contact us at darklir@gmail.com and we’ll help you sort it out.
+Having trouble with Weather and Weather? Fell free to contact us at darklir@gmail.com and we’ll help you sort it out.
