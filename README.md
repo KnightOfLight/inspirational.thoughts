@@ -1,16 +1,11 @@
-# Hello to Weather and Weather
+# Hello to Swift patterns
 
-With weather and weather you can see weather in any location.
+Programming patterns with Swift 5.0.
+
 ### Features
 
-- Any town
-- It supports celsius and fahrenheit.
-
-### Screenshots
-
-![](1.png)
-![](2.png)
+- 24 patterns
 
 ### Support or Contact
 
-Having trouble with Weather and Weather? Fell free to contact us at darklir@gmail.com and we’ll help you sort it out.
+Having trouble with Swift patterns? Fell free to contact us at darklir@gmail.com and we’ll help you sort it out.
